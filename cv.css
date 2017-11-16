@@ -1,0 +1,89 @@
+.page{
+    width: 780px; /*defines full page width*/
+    margin: auto; /*centers content,adapting it to page size for users*/
+    font-size:16px;
+    font-family: 'Spectral SC', serif;
+}
+
+.infophoto{
+    height: 250px;
+}
+
+.info{
+    float: left;
+}
+
+  .photo{
+    float: right; /* puts or floats element on right side of div*/
+  }
+
+  .resize {
+    width: 200px;
+    height: auto;
+  }
+
+.section {
+  margin-bottom: 65px;
+}
+
+.sec-left{
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.duree{
+    font-weight: normal;
+    font-style: italic;
+    font-size: 16px;
+}
+
+.sec-right {
+  margin-left: 150px;
+  margin-top: 37px;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+strong{
+    font-size: 26px;
+}
+
+.section{
+  margin-bottom: 70px;
+  text-align: justify;
+}
+
+h2 {
+    font-size: 28px;
+    color: tomato;
+    text-transform:uppercase;
+    border-bottom: 3px solid tomato;
+}
+
+#educ-left p{
+  margin-bottom: 37px;
+}
+#exp-left{
+  margin-top: 35px;
+}
+
+#exp-right-Godiva{
+  margin-top: 25px;
+}
+#lang-left p{
+  margin-top: 0px;
+  margin-bottom: 0px
+}
+
+#lang-right-IT{
+  margin-top: 0px;
+}
+
+#lang-right-lang {
+
+
+}
